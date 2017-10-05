@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToolBarDos</string>
+
+    <string name="str_tb_p1">Pantalla 1</string>
+
+    <string name="str_tb_p2">Pantalla 2</string>
+
+
+</resources>
